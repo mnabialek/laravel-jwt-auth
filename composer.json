@@ -1,0 +1,15 @@
+{
+    "name": "mnabialek/laravel-jwt-auth",
+    "description": "JWT authentication for Laravel applications",
+    "require": {
+        "laravel/framework": ">=5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Nabiałek",
+            "email": "developer@nabialek.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
